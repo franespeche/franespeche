@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fran</h1>
-<h3 align="center">hehe</h3>
+<h3 align="center">Curious about new things and how they work</h3>
 
 - 🔭 I’m currently working at [Scale](www.scale.com)
 
