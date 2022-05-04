@@ -1,1 +1,1 @@
-```# cuorious about things```
+```# curious about things```
